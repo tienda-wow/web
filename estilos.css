@@ -1,0 +1,51 @@
+@charset "utf-8";
+body header {
+    background-color: #41BEB6;
+    color: #FEFEFE;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    height: 75px;
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    top: auto;
+    bottom: auto;
+}
+nav {
+    background-color: #FF0000;
+    padding-top: auto;
+    padding-bottom: auto;
+    top: 5px;
+    bottom: 5px;
+    height: 46px;
+}
+footer section table {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer {
+    height: 100px;
+    padding-top: auto;
+    padding-right: auto;
+    padding-bottom: auto;
+    padding-left: auto;
+}
+
+
+
+body header h2 {
+}
+main p section {
+    float: left;
+}
+.izquierdo {
+    height: 450px;
+}
+.derecho {
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
